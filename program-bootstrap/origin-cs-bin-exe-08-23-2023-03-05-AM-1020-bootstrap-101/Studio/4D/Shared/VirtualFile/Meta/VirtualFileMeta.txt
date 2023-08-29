@@ -1,0 +1,25 @@
+
+	O META
+
+	O TYPE
+
+	O LINK
+
+sequence VirtualFile
+
+	>Compress
+	<<VirtualFileCompress.cs
+
+	>CompressRaw
+	<<VirtualFileCompressRaw.cs
+
+	>Object
+	>>VirtualFileObject
+	<<<VirtualFileObject.cs
+
+	>Prototype
+	<<VirtualFilePrototype.cs
+
+	<VirtualFile.cs
+
+end sequence

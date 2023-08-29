@@ -1,0 +1,10 @@
+C:\Users\todor\source\repos\program-bootstrap\bin\Debug\program-bootstrap.exe.config
+C:\Users\todor\source\repos\program-bootstrap\bin\Debug\program-bootstrap.exe
+C:\Users\todor\source\repos\program-bootstrap\bin\Debug\program-bootstrap.pdb
+C:\Users\todor\source\repos\program-bootstrap\bin\Debug\SharedLibrary.dll
+C:\Users\todor\source\repos\program-bootstrap\obj\Debug\program-bootstrap.csproj.AssemblyReference.cache
+C:\Users\todor\source\repos\program-bootstrap\obj\Debug\program-bootstrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\todor\source\repos\program-bootstrap\obj\Debug\program-bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\program-bootstrap\obj\Debug\program-bootstrap.csproj.CopyComplete
+C:\Users\todor\source\repos\program-bootstrap\obj\Debug\program-bootstrap.exe
+C:\Users\todor\source\repos\program-bootstrap\obj\Debug\program-bootstrap.pdb

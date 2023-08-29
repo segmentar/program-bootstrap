@@ -1,0 +1,26 @@
+﻿
+    O META
+
+    O TYPE
+
+    O LINK
+
+sequence Program
+
+    >Data
+    <<ProgramData.cs
+
+    >Prototype
+    <<ProgramPrototype.cs
+
+    <Program.cs
+
+    o /object\OBJECT/ProgramObject.cs\
+
+    o /object\OBJECT/ProgramDataObject.cs\
+
+    o /module\MODULE/ProgramModule.cs\
+
+    o /sequence\SEQUENCE/ProgramSequence.cs\
+
+end sequence

@@ -1,0 +1,16 @@
+C:\Users\todor\source\repos\program-bootstrap\bin\Release\Bootstrap.exe.config
+C:\Users\todor\source\repos\program-bootstrap\bin\Release\Bootstrap.exe
+C:\Users\todor\source\repos\program-bootstrap\bin\Release\Bootstrap.pdb
+C:\Users\todor\source\repos\program-bootstrap\obj\Release\program-bootstrap.csproj.AssemblyReference.cache
+C:\Users\todor\source\repos\program-bootstrap\obj\Release\program-bootstrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\todor\source\repos\program-bootstrap\obj\Release\program-bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\program-bootstrap\obj\Release\Bootstrap.exe
+C:\Users\todor\source\repos\program-bootstrap\obj\Release\Bootstrap.pdb
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\bin\Release\Bootstrap.exe.config
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\bin\Release\Bootstrap.exe
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\bin\Release\Bootstrap.pdb
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\obj\Release\program-bootstrap.csproj.AssemblyReference.cache
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\obj\Release\program-bootstrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\obj\Release\program-bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\obj\Release\Bootstrap.exe
+C:\Users\todor\Desktop\Origin Folder\program-bootstrap\obj\Release\Bootstrap.pdb

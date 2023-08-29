@@ -1,0 +1,25 @@
+﻿
+    O META
+
+    O TYPE
+
+    O LINK
+
+sequence VirtualFilesystem : no unused namespace(s)
+
+    >Compress
+    <<VirtualFilesystemCompress.cs
+
+    >CompressRaw
+    <<VirtualFilesystemCompressRaw.cs
+
+    >Object
+    >>VirtualFilesystemObject
+    <<<VirtualFilesystemObject.cs
+
+    >Prototype
+    <<VirtualFilesystemPrototype.cs
+
+    <VirtualFilesystem.cs
+
+end sequence

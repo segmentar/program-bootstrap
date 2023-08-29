@@ -1,0 +1,26 @@
+
+	O META
+
+	O TYPE
+
+	O LINK
+
+sequence VirtaulFolder : no unused namespace(s)
+
+	>Compress
+	<<VirtualFolderCompresss.cs
+
+	>CompressRaw
+	<<VirtualFolderCompressRaw.cs
+
+	>Object
+	>>VirtualFolderObject
+	<<<VirtualFolderObject.cs
+
+	<VirtualFolder.cs
+
+	o /sequence\SEQUENCE/VirtualFolderSequence.cs\
+
+	o /simple\SIMPLE/VirtualFolderSimple.cs\
+
+end sequence
